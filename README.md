@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Vuetify Material Dashboard](https://www.creative-tim.com/product/vuetify-material-dashboard?ref=vtymdp-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fwww.creative-tim.com%2Fvuetify-material-dashboard&text=Vuetify%20Material%20Dashboard%20PRO%20by%20Creative%20Tim&via=CreativeTim&hashtags=vuejs%20%23vuex%20%23vuetify%20%23material)
 
 
@@ -248,3 +249,6 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
+=======
+# project-x-web
+>>>>>>> 2f6042e3c7269337c6d369727ca1e5b2d0bc72c6
